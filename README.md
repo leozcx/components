@@ -1,6 +1,6 @@
 # components
 
-> A Vue.js project
+reusable components, functions
 
 ## Build Setup
 
